@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">LICORERIAS</string>
+    <string name="Usuario"></string>
+    <string name="Password"></string>
+    <string name="Registrar">Registro</string>
+    <string name="sesion">Inicio Sesion</string>
 </resources>
