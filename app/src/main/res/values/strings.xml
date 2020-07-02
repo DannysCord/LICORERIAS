@@ -2,6 +2,7 @@
     <string name="app_name">LICORERIAS</string>
     <string name="Usuario"></string>
     <string name="Password"></string>
+    <string name="titulo1">Registra Persona</string>
     <string name="Registrar">Registro</string>
     <string name="sesion">Inicio Sesion</string>
 </resources>
